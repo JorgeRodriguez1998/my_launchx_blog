@@ -1,7 +1,7 @@
 ---
-title: "Título de tu blog post"
+title: "Mi ruta de aprendizaje en Launch X"
 date: 2022-04-08
-description: 'Descripción de tu blog post'
+description: 'Te voy a contar mi travesía en Launch X de Innovacción Virtual '
 ---
 
 Hey! Este es el contenido del nuevo post, borra esto y llena tu contenido.
